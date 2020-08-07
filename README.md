@@ -8,7 +8,7 @@ D. Selechnik 1,2*, M.F. Richardson 3,4, M.K. Hess 5, A.S. Hess 5, K.G. Dodds 5, 
 2 Evolution & Ecology Research Centre, School of Biological, Earth and Environmental Sciences, University of New South Wales, Sydney, NSW 2052
 3 Deakin Genomics Centre, School of Life and Environmental Sciences, Deakin University, Locked Bag 20000, Geelong, VIC, Australia 3216
 4 Centre for Integrative Ecology, School of Life and Environmental Sciences, Deakin University, Locked Bag 20000, Geelong, VIC, Australia 3216
-5 AgResearch Limited, Invermay Agricultural Centre, Puddle Alley, Mosgiel, New Zealan
+5 AgResearch Limited, Invermay Agricultural Centre, Puddle Alley, Mosgiel, New Zealand
 
 
 > Compiled code to run our analyses can be found under the **code** subdirectory in the shell script *Code_Supplemental.sh*
