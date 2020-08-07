@@ -5,13 +5,9 @@
 D. Selechnik 1,2*, M.F. Richardson 3,4, M.K. Hess 5, A.S. Hess 5, K.G. Dodds 5, M. Martin 4, T.C. Chan 2, A.P.A. Cardilini 4, C. Sherman 4, R. Shine 1, L.A. Rollins 2
 
 1 School of Life and Environmental Sciences (SOLES), University of Sydney 2006
-
 2 Evolution & Ecology Research Centre, School of Biological, Earth and Environmental Sciences, University of New South Wales, Sydney, NSW 2052
-
 3 Deakin Genomics Centre, School of Life and Environmental Sciences, Deakin University, Locked Bag 20000, Geelong, VIC, Australia 3216
-
 4 Centre for Integrative Ecology, School of Life and Environmental Sciences, Deakin University, Locked Bag 20000, Geelong, VIC, Australia 3216
-
 5 AgResearch Limited, Invermay Agricultural Centre, Puddle Alley, Mosgiel, New Zealand
 
 
