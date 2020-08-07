@@ -16,7 +16,7 @@ D. Selechnik <sup>1,2*</sup>, M.F. Richardson <sup>3,4</sup>, M.K. Hess <sup>5</
 
 
 > The simulated data that serves as a basis for our filtering comparisons can be found in the **data** subdirectory
->> We provide the simulated data for all the iterations at different depth thresholds and filtering parameters, as well as the corresponding true genotypes.
+>> We provide the simulated data for all the iterations at different depth thresholds, as well as the corresponding true genotypes.
 
 
 If you use any of the code or data please cite our publication:
