@@ -1,6 +1,6 @@
 # Code and data repository for Selechnik et al 2020
 
-## "Inherent population structure determines the importance of filtering parameters for reduced representation sequencing analyses"
+## Inherent population structure determines the importance of filtering parameters for reduced representation sequencing analyses
 
 D. Selechnik 1,2*, M.F. Richardson 3,4, M.K. Hess 5, A.S. Hess 5, K.G. Dodds 5, M. Martin 4, T.C. Chan 2, A.P.A. Cardilini 4, C. Sherman 4, R. Shine 1, L.A. Rollins 2
 
